@@ -1,16 +1,30 @@
-# unsplash_images
+# Flutter Unsplash Photos App
 
-A new Flutter project.
+App was written with using of Flutter Bloc Pattern and Unsplash Api.
 
-## Getting Started
+## Screenshots from the program
 
-This project is a starting point for a Flutter application.
+<p>Main screen where you can see popular photos</p>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="screenshots/main_photos_screen.png" alt="" width="500">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p>Screen where you can see popular collections and their photos by clicking on one of them</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="screenshots/main_collections_screen.png" alt="" width="500">
+  <img src="screenshots/collection_details_screen.png" alt="" width="500">
+</p>
+
+<p>Screen where you can search users and see their profiles by clicking on button named "View profile"</p>
+
+<p float="left">
+  <img src="screenshots/main_users_screen.png" alt="" width="500">
+  <img src="screenshots/user_profile_screen.png" alt="" width="500">
+</p>
+
+<p>Screens where you can see the user's photos and user's liked photos</p>
+
+<p float="left">
+  <img src="screenshots/user_photos_screen.png" alt="" width="500">
+  <img src="screenshots/user_liked_photos_screen.png" alt="" width="500">
+</p>
